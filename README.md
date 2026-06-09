@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Chinmay</h1>
-<h3 align="center">A Full Stack developer from India, building data-driven applications and exploring backend systems</h3>
+<h3 align="center">IIT Madras BTech '26 | Data Science & ML | Python · PyTorch · XGBoost · LLMs · Full Stack</h3>
 
 ---
 
