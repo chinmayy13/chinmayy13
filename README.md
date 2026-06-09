@@ -33,13 +33,16 @@
 
 ## 🚀 What I've Built
 
-- 💬 **Real-Time Chat Application**  
+- **Real-Time Chat Application**  
       Built a real-time chat app using WebSockets, handling live messaging and basic user interactions.
 
-- 📈 **EMA Crossover Backtesting System**  
+- **EMA Crossover Backtesting System**  
       Developed a backtesting system to evaluate EMA-based trading strategies on historical market data.
 
-- ⚡ **Electricity Price Forecasting Pipeline**
+- **Electricity Price Forecasting Pipeline**  
+      Developed a backtesting system to evaluate EMA-based trading strategies on historical market data.
+
+-  **Electricity Price Forecasting Pipeline**
       XGBoost model on 8,000+ hourly records, 30% accuracy improvement over baseline, OpenAI API integration for automated trading signal generation.
   
 - **onlinemandi**
