@@ -44,9 +44,7 @@
 
 - **onlinemandi**  
       Full-stack agricultural marketplace (React, Node.js, MongoDB) with real-time bidding and OTP auth, onboarded 600+ real users.
-  
-- **onlinemandi**
-      Full-stack agricultural marketplace (React, Node.js, MongoDB) with real-time bidding and OTP auth, onboarded 600+ real users.
+
 
 ---
 
