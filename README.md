@@ -39,8 +39,11 @@
 - 📈 **EMA Crossover Backtesting System**  
       Developed a backtesting system to evaluate EMA-based trading strategies on historical market data.
 
-- 📊 **Data Visualization Dashboard**  
-      Created an interactive dashboard using React and Chart.js with filters for exploring different datasets. 
+- ⚡ **Electricity Price Forecasting Pipeline**
+      XGBoost model on 8,000+ hourly records, 30% accuracy improvement over baseline, OpenAI API integration for automated trading signal generation
+  
+- **onlinemandi**
+      Full-stack agricultural marketplace (React, Node.js, MongoDB) with real-time bidding and OTP auth, onboarded 600+ real users
 
 ---
 
