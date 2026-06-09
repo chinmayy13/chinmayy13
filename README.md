@@ -40,9 +40,6 @@
       Developed a backtesting system to evaluate EMA-based trading strategies on historical market data.
 
 - **Electricity Price Forecasting Pipeline**  
-      Developed a backtesting system to evaluate EMA-based trading strategies on historical market data.
-
--  **Electricity Price Forecasting Pipeline**
       XGBoost model on 8,000+ hourly records, 30% accuracy improvement over baseline, OpenAI API integration for automated trading signal generation.
   
 - **onlinemandi**
