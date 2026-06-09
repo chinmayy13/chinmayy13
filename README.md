@@ -3,9 +3,9 @@
 
 ---
 
-  I enjoy building things that involve data, APIs, and real-world use cases.  
-  Lately, I’ve been working on dashboards and simple trading strategy projects.  
-  Currently trying to get better at backend systems and problem solving.
+I build data-driven systems at the intersection of ML, finance, and full-stack engineering, 
+from forecasting pipelines and trading strategy backtests to real-world deployed products. 
+I care about work that has a measurable impact.
 
 ---
 
