@@ -98,7 +98,6 @@ I like startup-paced teams where one person can own a problem end to end: the da
 | 💬 **Real-Time Chat App** | Secure login, live online-user presence and instant messaging, with JWT auth and password hashing | React, Socket.io, Express, MongoDB |
 | 💰 **Finance Tracker** | Expense dashboard with category breakdowns and interactive charts. Per-user data isolation and optimised queries | Node.js, Express, MongoDB |
 
-> 📌 *Add a repo or live-demo link to each row once the repos are pinned. Linked projects get opened far more often.*
 
 ---
 
