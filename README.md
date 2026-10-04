@@ -94,7 +94,7 @@ I like startup-paced teams where one person can own a problem end to end: the da
 | Project | What it does | Stack |
 |---|---|---|
 | 🎨 **DigiBoard** | Real-time collaborative drawing board with shapes, draggable text, built-in chat, undo/redo and image copy/paste | Next.js, TypeScript, Express, Socket.io, Tailwind |
-| 🌾 **[onlinemandi](https://onlinemandi.com)** | Marketplace connecting farmers and buyers, with real-time bidding and OTP auth. **600+ users** onboarded | React, Node.js, MongoDB |
+| 🌾 **[onlinemandi]** | Marketplace connecting farmers and buyers, with real-time bidding and OTP auth. **600+ users** onboarded | React, Node.js, MongoDB |
 | 💬 **Real-Time Chat App** | Secure login, live online-user presence and instant messaging, with JWT auth and password hashing | React, Socket.io, Express, MongoDB |
 | 💰 **Finance Tracker** | Expense dashboard with category breakdowns and interactive charts. Per-user data isolation and optimised queries | Node.js, Express, MongoDB |
 
