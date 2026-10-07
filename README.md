@@ -19,7 +19,7 @@ I'm an **IIT Madras** graduate (B.Tech, Chemical Engineering, 2026) who works at
 I like startup-paced teams where one person can own a problem end to end: the data, the model, the dashboard, and the product someone actually uses.
 
 **Right now**
-- 🤖 AI Trainer & Evaluator at Outlier: writing adversarial prompts and evaluation rubrics for coding and web-development models
+- 🤖 AI Trainer & Evaluator at **Outlier**: writing adversarial prompts and evaluation rubrics for coding and web-development models
 - 🔎 Looking for **Data Analyst · Data Scientist · AI / ML · Full-Stack** roles, open to relocating in India or abroad
 
 ---
